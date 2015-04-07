@@ -6,5 +6,3 @@ ref: G. Marras & E.L. Nicolazzi (Fondazione Parco Tecnologico Padano) - Via Eins
 
 
 This is (will be) a python-based pipeline for multiple genomic analyses using SNP array data. The whole software is under contruction and will hopefully be available soon.
-
-
